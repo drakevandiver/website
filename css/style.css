@@ -55,3 +55,17 @@ background: linear-gradient(90deg, rgba(78,126,225,1) 0%, rgba(39,77,98,1) 100%)
 .gallery img {
     border-radius: 5%;
 }
+
+.services {
+    color: #ffff;
+
+}
+
+footer {
+    color:white;
+    font-size: 1rem;
+    margin: 0;
+    padding: 1rem;
+
+}
+
